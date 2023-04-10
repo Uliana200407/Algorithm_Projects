@@ -1,4 +1,4 @@
-# Algorithm_Projects
+# Algorithm_Projects📈
 -  [Content details📃](#Content-details📃)
 
 ## Content details📃
