@@ -9,3 +9,4 @@
 * Labwork_5 - Heapsort with the aim to estimate the sequence of medians for the given array + manual checking;
 * Labwork_6 - HashTable (Hash func FVN1-32),investigate techniques for inserting and searching elements in the hash table, while also considering the possibility of setting the array manually or randomly;
 * Labwork_7 - Binary Tree Search with calculating sum in the consequence nodes + manual solution and research;
+* Labwork_8 - Greedy algorithms,A*(algorithm) pathing, also here we have API tokens from Google Maps;
