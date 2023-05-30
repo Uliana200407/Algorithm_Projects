@@ -1,0 +1,2388 @@
+Origin: Джакарта
+Destination: Бандунг
+Distance: 151 km
+
+Origin: Джакарта
+Destination: Сурабая
+Distance: 783 km
+
+Origin: Джакарта
+Destination: Медан
+Distance: 1,889 km
+
+Origin: Джакарта
+Destination: Макасар
+Distance: 1,606 km
+
+Origin: Джакарта
+Destination: Палембанг
+Distance: 532 km
+
+Origin: Джакарта
+Destination: Йогякарта
+Distance: 562 km
+
+Origin: Джакарта
+Destination: Семаранг
+Distance: 442 km
+
+Origin: Джакарта
+Destination: Балікпапан
+Distance: 1,993 km
+
+Origin: Джакарта
+Destination: Паданг
+Distance: 1,278 km
+
+Origin: Джакарта
+Destination: Бандар-Лампунг
+Distance: 235 km
+
+Origin: Джакарта
+Destination: Денпасар
+Distance: 1,186 km
+
+Origin: Джакарта
+Destination: Манадо
+Distance: 3,350 km
+
+Origin: Джакарта
+Destination: Палембанг
+Distance: 532 km
+
+Origin: Джакарта
+Destination: Депок
+Distance: 28.2 km
+
+Origin: Бандунг
+Destination: Джакарта
+Distance: 151 km
+
+Origin: Бандунг
+Destination: Сурабая
+Distance: 711 km
+
+Origin: Бандунг
+Destination: Медан
+Distance: 2,033 km
+
+Origin: Бандунг
+Destination: Макасар
+Distance: 1,534 km
+
+Origin: Бандунг
+Destination: Палембанг
+Distance: 675 km
+
+Origin: Бандунг
+Destination: Йогякарта
+Distance: 490 km
+
+Origin: Бандунг
+Destination: Семаранг
+Distance: 370 km
+
+Origin: Бандунг
+Destination: Балікпапан
+Distance: 1,921 km
+
+Origin: Бандунг
+Destination: Паданг
+Distance: 1,422 km
+
+Origin: Бандунг
+Destination: Бандар-Лампунг
+Distance: 379 km
+
+Origin: Бандунг
+Destination: Денпасар
+Distance: 1,114 km
+
+Origin: Бандунг
+Destination: Манадо
+Distance: 3,278 km
+
+Origin: Бандунг
+Destination: Палембанг
+Distance: 675 km
+
+Origin: Бандунг
+Destination: Депок
+Distance: 167 km
+
+Origin: Сурабая
+Destination: Джакарта
+Distance: 780 km
+
+Origin: Сурабая
+Destination: Бандунг
+Distance: 707 km
+
+Origin: Сурабая
+Destination: Медан
+Distance: 2,662 km
+
+Origin: Сурабая
+Destination: Макасар
+Distance: 826 km
+
+Origin: Сурабая
+Destination: Палембанг
+Distance: 1,305 km
+
+Origin: Сурабая
+Destination: Йогякарта
+Distance: 324 km
+
+Origin: Сурабая
+Destination: Семаранг
+Distance: 350 km
+
+Origin: Сурабая
+Destination: Балікпапан
+Distance: 1,368 km
+
+Origin: Сурабая
+Destination: Паданг
+Distance: 2,052 km
+
+Origin: Сурабая
+Destination: Бандар-Лампунг
+Distance: 1,008 km
+
+Origin: Сурабая
+Destination: Денпасар
+Distance: 430 km
+
+Origin: Сурабая
+Destination: Манадо
+Distance: 2,570 km
+
+Origin: Сурабая
+Destination: Палембанг
+Distance: 1,305 km
+
+Origin: Сурабая
+Destination: Депок
+Distance: 796 km
+
+Origin: Медан
+Destination: Джакарта
+Distance: 1,890 km
+
+Origin: Медан
+Destination: Бандунг
+Distance: 2,035 km
+
+Origin: Медан
+Destination: Сурабая
+Distance: 2,666 km
+
+Origin: Медан
+Destination: Макасар
+Distance: 3,489 km
+
+Origin: Медан
+Destination: Палембанг
+Distance: 1,368 km
+
+Origin: Медан
+Destination: Йогякарта
+Distance: 2,445 km
+
+Origin: Медан
+Destination: Семаранг
+Distance: 2,326 km
+
+Origin: Медан
+Destination: Балікпапан
+Distance: 3,876 km
+
+Origin: Медан
+Destination: Паданг
+Distance: 779 km
+
+Origin: Медан
+Destination: Бандар-Лампунг
+Distance: 1,677 km
+
+Origin: Медан
+Destination: Денпасар
+Distance: 3,069 km
+
+Origin: Медан
+Destination: Манадо
+Distance: 5,233 km
+
+Origin: Медан
+Destination: Палембанг
+Distance: 1,368 km
+
+Origin: Медан
+Destination: Депок
+Distance: 1,899 km
+
+Origin: Макасар
+Destination: Джакарта
+Distance: 1,606 km
+
+Origin: Макасар
+Destination: Бандунг
+Distance: 1,532 km
+
+Origin: Макасар
+Destination: Сурабая
+Distance: 826 km
+
+Origin: Макасар
+Destination: Медан
+Distance: 3,488 km
+
+Origin: Макасар
+Destination: Палембанг
+Distance: 2,130 km
+
+Origin: Макасар
+Destination: Йогякарта
+Distance: 1,150 km
+
+Origin: Макасар
+Destination: Семаранг
+Distance: 1,175 km
+
+Origin: Макасар
+Destination: Балікпапан
+Distance: 614 km
+
+Origin: Макасар
+Destination: Паданг
+Distance: 2,877 km
+
+Origin: Макасар
+Destination: Бандар-Лампунг
+Distance: 1,833 km
+
+Origin: Макасар
+Destination: Денпасар
+Distance: 975 km
+
+Origin: Макасар
+Destination: Манадо
+Distance: 1,756 km
+
+Origin: Макасар
+Destination: Палембанг
+Distance: 2,130 km
+
+Origin: Макасар
+Destination: Депок
+Distance: 1,622 km
+
+Origin: Палембанг
+Destination: Джакарта
+Distance: 529 km
+
+Origin: Палембанг
+Destination: Бандунг
+Distance: 673 km
+
+Origin: Палембанг
+Destination: Сурабая
+Distance: 1,305 km
+
+Origin: Палембанг
+Destination: Медан
+Distance: 1,365 km
+
+Origin: Палембанг
+Destination: Макасар
+Distance: 2,128 km
+
+Origin: Палембанг
+Destination: Йогякарта
+Distance: 1,084 km
+
+Origin: Палембанг
+Destination: Семаранг
+Distance: 964 km
+
+Origin: Палембанг
+Destination: Балікпапан
+Distance: 2,515 km
+
+Origin: Палембанг
+Destination: Паданг
+Distance: 754 km
+
+Origin: Палембанг
+Destination: Бандар-Лампунг
+Distance: 316 km
+
+Origin: Палембанг
+Destination: Денпасар
+Distance: 1,708 km
+
+Origin: Палембанг
+Destination: Манадо
+Distance: 3,872 km
+
+Origin: Палембанг
+Destination: Палембанг
+Distance: 1 m
+
+Origin: Палембанг
+Destination: Депок
+Distance: 538 km
+
+Origin: Йогякарта
+Destination: Джакарта
+Distance: 560 km
+
+Origin: Йогякарта
+Destination: Бандунг
+Distance: 487 km
+
+Origin: Йогякарта
+Destination: Сурабая
+Distance: 325 km
+
+Origin: Йогякарта
+Destination: Медан
+Distance: 2,442 km
+
+Origin: Йогякарта
+Destination: Макасар
+Distance: 1,148 km
+
+Origin: Йогякарта
+Destination: Палембанг
+Distance: 1,085 km
+
+Origin: Йогякарта
+Destination: Семаранг
+Distance: 130 km
+
+Origin: Йогякарта
+Destination: Балікпапан
+Distance: 1,690 km
+
+Origin: Йогякарта
+Destination: Паданг
+Distance: 1,832 km
+
+Origin: Йогякарта
+Destination: Бандар-Лампунг
+Distance: 788 km
+
+Origin: Йогякарта
+Destination: Денпасар
+Distance: 729 km
+
+Origin: Йогякарта
+Destination: Манадо
+Distance: 2,892 km
+
+Origin: Йогякарта
+Destination: Палембанг
+Distance: 1,085 km
+
+Origin: Йогякарта
+Destination: Депок
+Distance: 576 km
+
+Origin: Семаранг
+Destination: Джакарта
+Distance: 442 km
+
+Origin: Семаранг
+Destination: Бандунг
+Distance: 368 km
+
+Origin: Семаранг
+Destination: Сурабая
+Distance: 350 km
+
+Origin: Семаранг
+Destination: Медан
+Distance: 2,324 km
+
+Origin: Семаранг
+Destination: Макасар
+Distance: 1,174 km
+
+Origin: Семаранг
+Destination: Палембанг
+Distance: 966 km
+
+Origin: Семаранг
+Destination: Йогякарта
+Distance: 130 km
+
+Origin: Семаранг
+Destination: Балікпапан
+Distance: 1,558 km
+
+Origin: Семаранг
+Destination: Паданг
+Distance: 1,713 km
+
+Origin: Семаранг
+Destination: Бандар-Лампунг
+Distance: 670 km
+
+Origin: Семаранг
+Destination: Денпасар
+Distance: 754 km
+
+Origin: Семаранг
+Destination: Манадо
+Distance: 2,918 km
+
+Origin: Семаранг
+Destination: Палембанг
+Distance: 966 km
+
+Origin: Семаранг
+Destination: Депок
+Distance: 458 km
+
+Origin: Балікпапан
+Destination: Джакарта
+Distance: 1,991 km
+
+Origin: Балікпапан
+Destination: Бандунг
+Distance: 1,917 km
+
+Origin: Балікпапан
+Destination: Сурабая
+Distance: 1,366 km
+
+Origin: Балікпапан
+Destination: Медан
+Distance: 3,873 km
+
+Origin: Балікпапан
+Destination: Макасар
+Distance: 613 km
+
+Origin: Балікпапан
+Destination: Палембанг
+Distance: 2,515 km
+
+Origin: Балікпапан
+Destination: Йогякарта
+Distance: 1,690 km
+
+Origin: Балікпапан
+Destination: Семаранг
+Distance: 1,557 km
+
+Origin: Балікпапан
+Destination: Паданг
+Distance: 3,262 km
+
+Origin: Балікпапан
+Destination: Бандар-Лампунг
+Distance: 2,219 km
+
+Origin: Балікпапан
+Destination: Денпасар
+Distance: 1,795 km
+
+Origin: Балікпапан
+Destination: Манадо
+Distance: 1,291 km
+
+Origin: Балікпапан
+Destination: Палембанг
+Distance: 2,515 km
+
+Origin: Балікпапан
+Destination: Депок
+Distance: 2,007 km
+
+Origin: Паданг
+Destination: Джакарта
+Distance: 1,275 km
+
+Origin: Паданг
+Destination: Бандунг
+Distance: 1,420 km
+
+Origin: Паданг
+Destination: Сурабая
+Distance: 2,051 km
+
+Origin: Паданг
+Destination: Медан
+Distance: 771 km
+
+Origin: Паданг
+Destination: Макасар
+Distance: 2,874 km
+
+Origin: Паданг
+Destination: Палембанг
+Distance: 753 km
+
+Origin: Паданг
+Destination: Йогякарта
+Distance: 1,831 km
+
+Origin: Паданг
+Destination: Семаранг
+Distance: 1,711 km
+
+Origin: Паданг
+Destination: Балікпапан
+Distance: 3,261 km
+
+Origin: Паданг
+Destination: Бандар-Лампунг
+Distance: 1,063 km
+
+Origin: Паданг
+Destination: Денпасар
+Distance: 2,455 km
+
+Origin: Паданг
+Destination: Манадо
+Distance: 4,618 km
+
+Origin: Паданг
+Destination: Палембанг
+Distance: 753 km
+
+Origin: Паданг
+Destination: Депок
+Distance: 1,285 km
+
+Origin: Бандар-Лампунг
+Destination: Джакарта
+Distance: 234 km
+
+Origin: Бандар-Лампунг
+Destination: Бандунг
+Distance: 379 km
+
+Origin: Бандар-Лампунг
+Destination: Сурабая
+Distance: 1,010 km
+
+Origin: Бандар-Лампунг
+Destination: Медан
+Distance: 1,674 km
+
+Origin: Бандар-Лампунг
+Destination: Макасар
+Distance: 1,833 km
+
+Origin: Бандар-Лампунг
+Destination: Палембанг
+Distance: 317 km
+
+Origin: Бандар-Лампунг
+Destination: Йогякарта
+Distance: 790 km
+
+Origin: Бандар-Лампунг
+Destination: Семаранг
+Distance: 670 km
+
+Origin: Бандар-Лампунг
+Destination: Балікпапан
+Distance: 2,220 km
+
+Origin: Бандар-Лампунг
+Destination: Паданг
+Distance: 1,063 km
+
+Origin: Бандар-Лампунг
+Destination: Денпасар
+Distance: 1,414 km
+
+Origin: Бандар-Лампунг
+Destination: Манадо
+Distance: 3,577 km
+
+Origin: Бандар-Лампунг
+Destination: Палембанг
+Distance: 317 km
+
+Origin: Бандар-Лампунг
+Destination: Депок
+Distance: 243 km
+
+Origin: Денпасар
+Destination: Джакарта
+Distance: 1,185 km
+
+Origin: Денпасар
+Destination: Бандунг
+Distance: 1,111 km
+
+Origin: Денпасар
+Destination: Сурабая
+Distance: 432 km
+
+Origin: Денпасар
+Destination: Медан
+Distance: 3,067 km
+
+Origin: Денпасар
+Destination: Макасар
+Distance: 975 km
+
+Origin: Денпасар
+Destination: Палембанг
+Distance: 1,709 km
+
+Origin: Денпасар
+Destination: Йогякарта
+Distance: 729 km
+
+Origin: Денпасар
+Destination: Семаранг
+Distance: 754 km
+
+Origin: Денпасар
+Destination: Балікпапан
+Distance: 1,797 km
+
+Origin: Денпасар
+Destination: Паданг
+Distance: 2,456 km
+
+Origin: Денпасар
+Destination: Бандар-Лампунг
+Distance: 1,412 km
+
+Origin: Денпасар
+Destination: Манадо
+Distance: 2,719 km
+
+Origin: Денпасар
+Destination: Палембанг
+Distance: 1,709 km
+
+Origin: Денпасар
+Destination: Депок
+Distance: 1,201 km
+
+Origin: Манадо
+Destination: Джакарта
+Distance: 3,349 km
+
+Origin: Манадо
+Destination: Бандунг
+Distance: 3,275 km
+
+Origin: Манадо
+Destination: Сурабая
+Distance: 2,569 km
+
+Origin: Манадо
+Destination: Медан
+Distance: 5,231 km
+
+Origin: Манадо
+Destination: Макасар
+Distance: 1,755 km
+
+Origin: Манадо
+Destination: Палембанг
+Distance: 3,873 km
+
+Origin: Манадо
+Destination: Йогякарта
+Distance: 2,893 km
+
+Origin: Манадо
+Destination: Семаранг
+Distance: 2,918 km
+
+Origin: Манадо
+Destination: Балікпапан
+Distance: 1,290 km
+
+Origin: Манадо
+Destination: Паданг
+Distance: 4,620 km
+
+Origin: Манадо
+Destination: Бандар-Лампунг
+Distance: 3,577 km
+
+Origin: Манадо
+Destination: Денпасар
+Distance: 2,718 km
+
+Origin: Манадо
+Destination: Палембанг
+Distance: 3,873 km
+
+Origin: Манадо
+Destination: Депок
+Distance: 3,365 km
+
+Origin: Палембанг
+Destination: Джакарта
+Distance: 529 km
+
+Origin: Палембанг
+Destination: Бандунг
+Distance: 673 km
+
+Origin: Палембанг
+Destination: Сурабая
+Distance: 1,305 km
+
+Origin: Палембанг
+Destination: Медан
+Distance: 1,365 km
+
+Origin: Палембанг
+Destination: Макасар
+Distance: 2,128 km
+
+Origin: Палембанг
+Destination: Палембанг
+Distance: 1 m
+
+Origin: Палембанг
+Destination: Йогякарта
+Distance: 1,084 km
+
+Origin: Палембанг
+Destination: Семаранг
+Distance: 964 km
+
+Origin: Палембанг
+Destination: Балікпапан
+Distance: 2,515 km
+
+Origin: Палембанг
+Destination: Паданг
+Distance: 754 km
+
+Origin: Палембанг
+Destination: Бандар-Лампунг
+Distance: 316 km
+
+Origin: Палембанг
+Destination: Денпасар
+Distance: 1,708 km
+
+Origin: Палембанг
+Destination: Манадо
+Distance: 3,872 km
+
+Origin: Палембанг
+Destination: Депок
+Distance: 538 km
+
+Origin: Депок
+Destination: Джакарта
+Distance: 40.6 km
+
+Origin: Депок
+Destination: Бандунг
+Distance: 168 km
+
+Origin: Депок
+Destination: Сурабая
+Distance: 799 km
+
+Origin: Депок
+Destination: Медан
+Distance: 1,901 km
+
+Origin: Депок
+Destination: Макасар
+Distance: 1,622 km
+
+Origin: Депок
+Destination: Палембанг
+Distance: 544 km
+
+Origin: Депок
+Destination: Йогякарта
+Distance: 579 km
+
+Origin: Депок
+Destination: Семаранг
+Distance: 459 km
+
+Origin: Депок
+Destination: Балікпапан
+Distance: 2,009 km
+
+Origin: Депок
+Destination: Паданг
+Distance: 1,290 km
+
+Origin: Депок
+Destination: Бандар-Лампунг
+Distance: 247 km
+
+Origin: Депок
+Destination: Денпасар
+Distance: 1,203 km
+
+Origin: Депок
+Destination: Манадо
+Distance: 3,366 km
+
+Origin: Депок
+Destination: Палембанг
+Distance: 544 km
+
+Origin: Джакарта
+Destination: Бандунг
+Distance: 151 km
+
+Origin: Джакарта
+Destination: Сурабая
+Distance: 783 km
+
+Origin: Джакарта
+Destination: Медан
+Distance: 1,889 km
+
+Origin: Джакарта
+Destination: Макасар
+Distance: 1,606 km
+
+Origin: Джакарта
+Destination: Палембанг
+Distance: 532 km
+
+Origin: Джакарта
+Destination: Йогякарта
+Distance: 562 km
+
+Origin: Джакарта
+Destination: Семаранг
+Distance: 442 km
+
+Origin: Джакарта
+Destination: Балікпапан
+Distance: 1,993 km
+
+Origin: Джакарта
+Destination: Паданг
+Distance: 1,278 km
+
+Origin: Джакарта
+Destination: Бандар-Лампунг
+Distance: 235 km
+
+Origin: Джакарта
+Destination: Денпасар
+Distance: 1,186 km
+
+Origin: Джакарта
+Destination: Манадо
+Distance: 3,350 km
+
+Origin: Джакарта
+Destination: Палембанг
+Distance: 532 km
+
+Origin: Джакарта
+Destination: Депок
+Distance: 28.2 km
+
+Origin: Бандунг
+Destination: Джакарта
+Distance: 151 km
+
+Origin: Бандунг
+Destination: Сурабая
+Distance: 711 km
+
+Origin: Бандунг
+Destination: Медан
+Distance: 2,033 km
+
+Origin: Бандунг
+Destination: Макасар
+Distance: 1,534 km
+
+Origin: Бандунг
+Destination: Палембанг
+Distance: 675 km
+
+Origin: Бандунг
+Destination: Йогякарта
+Distance: 490 km
+
+Origin: Бандунг
+Destination: Семаранг
+Distance: 370 km
+
+Origin: Бандунг
+Destination: Балікпапан
+Distance: 1,921 km
+
+Origin: Бандунг
+Destination: Паданг
+Distance: 1,422 km
+
+Origin: Бандунг
+Destination: Бандар-Лампунг
+Distance: 379 km
+
+Origin: Бандунг
+Destination: Денпасар
+Distance: 1,114 km
+
+Origin: Бандунг
+Destination: Манадо
+Distance: 3,278 km
+
+Origin: Бандунг
+Destination: Палембанг
+Distance: 675 km
+
+Origin: Бандунг
+Destination: Депок
+Distance: 167 km
+
+Origin: Сурабая
+Destination: Джакарта
+Distance: 780 km
+
+Origin: Сурабая
+Destination: Бандунг
+Distance: 707 km
+
+Origin: Сурабая
+Destination: Медан
+Distance: 2,662 km
+
+Origin: Сурабая
+Destination: Макасар
+Distance: 826 km
+
+Origin: Сурабая
+Destination: Палембанг
+Distance: 1,305 km
+
+Origin: Сурабая
+Destination: Йогякарта
+Distance: 324 km
+
+Origin: Сурабая
+Destination: Семаранг
+Distance: 350 km
+
+Origin: Сурабая
+Destination: Балікпапан
+Distance: 1,368 km
+
+Origin: Сурабая
+Destination: Паданг
+Distance: 2,052 km
+
+Origin: Сурабая
+Destination: Бандар-Лампунг
+Distance: 1,008 km
+
+Origin: Сурабая
+Destination: Денпасар
+Distance: 430 km
+
+Origin: Сурабая
+Destination: Манадо
+Distance: 2,570 km
+
+Origin: Сурабая
+Destination: Палембанг
+Distance: 1,305 km
+
+Origin: Сурабая
+Destination: Депок
+Distance: 796 km
+
+Origin: Медан
+Destination: Джакарта
+Distance: 1,890 km
+
+Origin: Медан
+Destination: Бандунг
+Distance: 2,035 km
+
+Origin: Медан
+Destination: Сурабая
+Distance: 2,666 km
+
+Origin: Медан
+Destination: Макасар
+Distance: 3,489 km
+
+Origin: Медан
+Destination: Палембанг
+Distance: 1,368 km
+
+Origin: Медан
+Destination: Йогякарта
+Distance: 2,445 km
+
+Origin: Медан
+Destination: Семаранг
+Distance: 2,326 km
+
+Origin: Медан
+Destination: Балікпапан
+Distance: 3,876 km
+
+Origin: Медан
+Destination: Паданг
+Distance: 779 km
+
+Origin: Медан
+Destination: Бандар-Лампунг
+Distance: 1,677 km
+
+Origin: Медан
+Destination: Денпасар
+Distance: 3,069 km
+
+Origin: Медан
+Destination: Манадо
+Distance: 5,233 km
+
+Origin: Медан
+Destination: Палембанг
+Distance: 1,368 km
+
+Origin: Медан
+Destination: Депок
+Distance: 1,899 km
+
+Origin: Макасар
+Destination: Джакарта
+Distance: 1,606 km
+
+Origin: Макасар
+Destination: Бандунг
+Distance: 1,532 km
+
+Origin: Макасар
+Destination: Сурабая
+Distance: 826 km
+
+Origin: Макасар
+Destination: Медан
+Distance: 3,488 km
+
+Origin: Макасар
+Destination: Палембанг
+Distance: 2,130 km
+
+Origin: Макасар
+Destination: Йогякарта
+Distance: 1,150 km
+
+Origin: Макасар
+Destination: Семаранг
+Distance: 1,175 km
+
+Origin: Макасар
+Destination: Балікпапан
+Distance: 614 km
+
+Origin: Макасар
+Destination: Паданг
+Distance: 2,877 km
+
+Origin: Макасар
+Destination: Бандар-Лампунг
+Distance: 1,833 km
+
+Origin: Макасар
+Destination: Денпасар
+Distance: 975 km
+
+Origin: Макасар
+Destination: Манадо
+Distance: 1,756 km
+
+Origin: Макасар
+Destination: Палембанг
+Distance: 2,130 km
+
+Origin: Макасар
+Destination: Депок
+Distance: 1,622 km
+
+Origin: Палембанг
+Destination: Джакарта
+Distance: 529 km
+
+Origin: Палембанг
+Destination: Бандунг
+Distance: 673 km
+
+Origin: Палембанг
+Destination: Сурабая
+Distance: 1,305 km
+
+Origin: Палембанг
+Destination: Медан
+Distance: 1,365 km
+
+Origin: Палембанг
+Destination: Макасар
+Distance: 2,128 km
+
+Origin: Палембанг
+Destination: Йогякарта
+Distance: 1,084 km
+
+Origin: Палембанг
+Destination: Семаранг
+Distance: 964 km
+
+Origin: Палембанг
+Destination: Балікпапан
+Distance: 2,515 km
+
+Origin: Палембанг
+Destination: Паданг
+Distance: 754 km
+
+Origin: Палембанг
+Destination: Бандар-Лампунг
+Distance: 316 km
+
+Origin: Палембанг
+Destination: Денпасар
+Distance: 1,708 km
+
+Origin: Палембанг
+Destination: Манадо
+Distance: 3,872 km
+
+Origin: Палембанг
+Destination: Палембанг
+Distance: 1 m
+
+Origin: Палембанг
+Destination: Депок
+Distance: 538 km
+
+Origin: Йогякарта
+Destination: Джакарта
+Distance: 560 km
+
+Origin: Йогякарта
+Destination: Бандунг
+Distance: 487 km
+
+Origin: Йогякарта
+Destination: Сурабая
+Distance: 325 km
+
+Origin: Йогякарта
+Destination: Медан
+Distance: 2,442 km
+
+Origin: Йогякарта
+Destination: Макасар
+Distance: 1,148 km
+
+Origin: Йогякарта
+Destination: Палембанг
+Distance: 1,085 km
+
+Origin: Йогякарта
+Destination: Семаранг
+Distance: 130 km
+
+Origin: Йогякарта
+Destination: Балікпапан
+Distance: 1,690 km
+
+Origin: Йогякарта
+Destination: Паданг
+Distance: 1,832 km
+
+Origin: Йогякарта
+Destination: Бандар-Лампунг
+Distance: 788 km
+
+Origin: Йогякарта
+Destination: Денпасар
+Distance: 729 km
+
+Origin: Йогякарта
+Destination: Манадо
+Distance: 2,892 km
+
+Origin: Йогякарта
+Destination: Палембанг
+Distance: 1,085 km
+
+Origin: Йогякарта
+Destination: Депок
+Distance: 576 km
+
+Origin: Семаранг
+Destination: Джакарта
+Distance: 442 km
+
+Origin: Семаранг
+Destination: Бандунг
+Distance: 368 km
+
+Origin: Семаранг
+Destination: Сурабая
+Distance: 350 km
+
+Origin: Семаранг
+Destination: Медан
+Distance: 2,324 km
+
+Origin: Семаранг
+Destination: Макасар
+Distance: 1,174 km
+
+Origin: Семаранг
+Destination: Палембанг
+Distance: 966 km
+
+Origin: Семаранг
+Destination: Йогякарта
+Distance: 130 km
+
+Origin: Семаранг
+Destination: Балікпапан
+Distance: 1,558 km
+
+Origin: Семаранг
+Destination: Паданг
+Distance: 1,713 km
+
+Origin: Семаранг
+Destination: Бандар-Лампунг
+Distance: 670 km
+
+Origin: Семаранг
+Destination: Денпасар
+Distance: 754 km
+
+Origin: Семаранг
+Destination: Манадо
+Distance: 2,918 km
+
+Origin: Семаранг
+Destination: Палембанг
+Distance: 966 km
+
+Origin: Семаранг
+Destination: Депок
+Distance: 458 km
+
+Origin: Балікпапан
+Destination: Джакарта
+Distance: 1,991 km
+
+Origin: Балікпапан
+Destination: Бандунг
+Distance: 1,917 km
+
+Origin: Балікпапан
+Destination: Сурабая
+Distance: 1,366 km
+
+Origin: Балікпапан
+Destination: Медан
+Distance: 3,873 km
+
+Origin: Балікпапан
+Destination: Макасар
+Distance: 613 km
+
+Origin: Балікпапан
+Destination: Палембанг
+Distance: 2,515 km
+
+Origin: Балікпапан
+Destination: Йогякарта
+Distance: 1,690 km
+
+Origin: Балікпапан
+Destination: Семаранг
+Distance: 1,557 km
+
+Origin: Балікпапан
+Destination: Паданг
+Distance: 3,262 km
+
+Origin: Балікпапан
+Destination: Бандар-Лампунг
+Distance: 2,219 km
+
+Origin: Балікпапан
+Destination: Денпасар
+Distance: 1,795 km
+
+Origin: Балікпапан
+Destination: Манадо
+Distance: 1,291 km
+
+Origin: Балікпапан
+Destination: Палембанг
+Distance: 2,515 km
+
+Origin: Балікпапан
+Destination: Депок
+Distance: 2,007 km
+
+Origin: Паданг
+Destination: Джакарта
+Distance: 1,275 km
+
+Origin: Паданг
+Destination: Бандунг
+Distance: 1,420 km
+
+Origin: Паданг
+Destination: Сурабая
+Distance: 2,051 km
+
+Origin: Паданг
+Destination: Медан
+Distance: 771 km
+
+Origin: Паданг
+Destination: Макасар
+Distance: 2,874 km
+
+Origin: Паданг
+Destination: Палембанг
+Distance: 753 km
+
+Origin: Паданг
+Destination: Йогякарта
+Distance: 1,831 km
+
+Origin: Паданг
+Destination: Семаранг
+Distance: 1,711 km
+
+Origin: Паданг
+Destination: Балікпапан
+Distance: 3,261 km
+
+Origin: Паданг
+Destination: Бандар-Лампунг
+Distance: 1,063 km
+
+Origin: Паданг
+Destination: Денпасар
+Distance: 2,455 km
+
+Origin: Паданг
+Destination: Манадо
+Distance: 4,618 km
+
+Origin: Паданг
+Destination: Палембанг
+Distance: 753 km
+
+Origin: Паданг
+Destination: Депок
+Distance: 1,285 km
+
+Origin: Бандар-Лампунг
+Destination: Джакарта
+Distance: 234 km
+
+Origin: Бандар-Лампунг
+Destination: Бандунг
+Distance: 379 km
+
+Origin: Бандар-Лампунг
+Destination: Сурабая
+Distance: 1,010 km
+
+Origin: Бандар-Лампунг
+Destination: Медан
+Distance: 1,674 km
+
+Origin: Бандар-Лампунг
+Destination: Макасар
+Distance: 1,833 km
+
+Origin: Бандар-Лампунг
+Destination: Палембанг
+Distance: 317 km
+
+Origin: Бандар-Лампунг
+Destination: Йогякарта
+Distance: 790 km
+
+Origin: Бандар-Лампунг
+Destination: Семаранг
+Distance: 670 km
+
+Origin: Бандар-Лампунг
+Destination: Балікпапан
+Distance: 2,220 km
+
+Origin: Бандар-Лампунг
+Destination: Паданг
+Distance: 1,063 km
+
+Origin: Бандар-Лампунг
+Destination: Денпасар
+Distance: 1,414 km
+
+Origin: Бандар-Лампунг
+Destination: Манадо
+Distance: 3,577 km
+
+Origin: Бандар-Лампунг
+Destination: Палембанг
+Distance: 317 km
+
+Origin: Бандар-Лампунг
+Destination: Депок
+Distance: 243 km
+
+Origin: Денпасар
+Destination: Джакарта
+Distance: 1,185 km
+
+Origin: Денпасар
+Destination: Бандунг
+Distance: 1,111 km
+
+Origin: Денпасар
+Destination: Сурабая
+Distance: 432 km
+
+Origin: Денпасар
+Destination: Медан
+Distance: 3,067 km
+
+Origin: Денпасар
+Destination: Макасар
+Distance: 975 km
+
+Origin: Денпасар
+Destination: Палембанг
+Distance: 1,709 km
+
+Origin: Денпасар
+Destination: Йогякарта
+Distance: 729 km
+
+Origin: Денпасар
+Destination: Семаранг
+Distance: 754 km
+
+Origin: Денпасар
+Destination: Балікпапан
+Distance: 1,797 km
+
+Origin: Денпасар
+Destination: Паданг
+Distance: 2,456 km
+
+Origin: Денпасар
+Destination: Бандар-Лампунг
+Distance: 1,412 km
+
+Origin: Денпасар
+Destination: Манадо
+Distance: 2,719 km
+
+Origin: Денпасар
+Destination: Палембанг
+Distance: 1,709 km
+
+Origin: Денпасар
+Destination: Депок
+Distance: 1,201 km
+
+Origin: Манадо
+Destination: Джакарта
+Distance: 3,349 km
+
+Origin: Манадо
+Destination: Бандунг
+Distance: 3,275 km
+
+Origin: Манадо
+Destination: Сурабая
+Distance: 2,569 km
+
+Origin: Манадо
+Destination: Медан
+Distance: 5,231 km
+
+Origin: Манадо
+Destination: Макасар
+Distance: 1,755 km
+
+Origin: Манадо
+Destination: Палембанг
+Distance: 3,873 km
+
+Origin: Манадо
+Destination: Йогякарта
+Distance: 2,893 km
+
+Origin: Манадо
+Destination: Семаранг
+Distance: 2,918 km
+
+Origin: Манадо
+Destination: Балікпапан
+Distance: 1,290 km
+
+Origin: Джакарта
+Destination: Бандунг
+Distance: 151 km
+
+Origin: Джакарта
+Destination: Сурабая
+Distance: 783 km
+
+Origin: Джакарта
+Destination: Медан
+Distance: 1,889 km
+
+Origin: Джакарта
+Destination: Макасар
+Distance: 1,606 km
+
+Origin: Джакарта
+Destination: Палембанг
+Distance: 532 km
+
+Origin: Джакарта
+Destination: Йогякарта
+Distance: 562 km
+
+Origin: Джакарта
+Destination: Семаранг
+Distance: 442 km
+
+Origin: Джакарта
+Destination: Балікпапан
+Distance: 1,993 km
+
+Origin: Джакарта
+Destination: Паданг
+Distance: 1,279 km
+
+Origin: Джакарта
+Destination: Бандар-Лампунг
+Distance: 235 km
+
+Origin: Джакарта
+Destination: Денпасар
+Distance: 1,179 km
+
+Origin: Джакарта
+Destination: Манадо
+Distance: 3,350 km
+
+Origin: Джакарта
+Destination: Палембанг
+Distance: 532 km
+
+Origin: Джакарта
+Destination: Депок
+Distance: 28.2 km
+
+Origin: Бандунг
+Destination: Джакарта
+Distance: 151 km
+
+Origin: Бандунг
+Destination: Сурабая
+Distance: 711 km
+
+Origin: Бандунг
+Destination: Медан
+Distance: 2,033 km
+
+Origin: Бандунг
+Destination: Макасар
+Distance: 1,534 km
+
+Origin: Бандунг
+Destination: Палембанг
+Distance: 675 km
+
+Origin: Бандунг
+Destination: Йогякарта
+Distance: 490 km
+
+Origin: Бандунг
+Destination: Семаранг
+Distance: 370 km
+
+Origin: Бандунг
+Destination: Балікпапан
+Distance: 1,921 km
+
+Origin: Бандунг
+Destination: Паданг
+Distance: 1,422 km
+
+Origin: Бандунг
+Destination: Бандар-Лампунг
+Distance: 379 km
+
+Origin: Бандунг
+Destination: Денпасар
+Distance: 1,107 km
+
+Origin: Бандунг
+Destination: Манадо
+Distance: 3,278 km
+
+Origin: Бандунг
+Destination: Палембанг
+Distance: 675 km
+
+Origin: Бандунг
+Destination: Депок
+Distance: 167 km
+
+Origin: Сурабая
+Destination: Джакарта
+Distance: 780 km
+
+Origin: Сурабая
+Destination: Бандунг
+Distance: 707 km
+
+Origin: Сурабая
+Destination: Медан
+Distance: 2,662 km
+
+Origin: Сурабая
+Destination: Макасар
+Distance: 826 km
+
+Origin: Сурабая
+Destination: Палембанг
+Distance: 1,305 km
+
+Origin: Сурабая
+Destination: Йогякарта
+Distance: 324 km
+
+Origin: Сурабая
+Destination: Семаранг
+Distance: 350 km
+
+Origin: Сурабая
+Destination: Балікпапан
+Distance: 1,368 km
+
+Origin: Сурабая
+Destination: Паданг
+Distance: 2,052 km
+
+Origin: Сурабая
+Destination: Бандар-Лампунг
+Distance: 1,008 km
+
+Origin: Сурабая
+Destination: Денпасар
+Distance: 423 km
+
+Origin: Сурабая
+Destination: Манадо
+Distance: 2,570 km
+
+Origin: Сурабая
+Destination: Палембанг
+Distance: 1,305 km
+
+Origin: Сурабая
+Destination: Депок
+Distance: 796 km
+
+Origin: Медан
+Destination: Джакарта
+Distance: 1,890 km
+
+Origin: Медан
+Destination: Бандунг
+Distance: 2,035 km
+
+Origin: Медан
+Destination: Сурабая
+Distance: 2,666 km
+
+Origin: Медан
+Destination: Макасар
+Distance: 3,489 km
+
+Origin: Медан
+Destination: Палембанг
+Distance: 1,368 km
+
+Origin: Медан
+Destination: Йогякарта
+Distance: 2,445 km
+
+Origin: Медан
+Destination: Семаранг
+Distance: 2,326 km
+
+Origin: Медан
+Destination: Балікпапан
+Distance: 3,876 km
+
+Origin: Медан
+Destination: Паданг
+Distance: 779 km
+
+Origin: Медан
+Destination: Бандар-Лампунг
+Distance: 1,677 km
+
+Origin: Медан
+Destination: Денпасар
+Distance: 3,062 km
+
+Origin: Медан
+Destination: Манадо
+Distance: 5,233 km
+
+Origin: Медан
+Destination: Палембанг
+Distance: 1,368 km
+
+Origin: Медан
+Destination: Депок
+Distance: 1,899 km
+
+Origin: Макасар
+Destination: Джакарта
+Distance: 1,606 km
+
+Origin: Макасар
+Destination: Бандунг
+Distance: 1,532 km
+
+Origin: Макасар
+Destination: Сурабая
+Distance: 826 km
+
+Origin: Макасар
+Destination: Медан
+Distance: 3,488 km
+
+Origin: Макасар
+Destination: Палембанг
+Distance: 2,130 km
+
+Origin: Макасар
+Destination: Йогякарта
+Distance: 1,150 km
+
+Origin: Макасар
+Destination: Семаранг
+Distance: 1,175 km
+
+Origin: Макасар
+Destination: Балікпапан
+Distance: 614 km
+
+Origin: Макасар
+Destination: Паданг
+Distance: 2,877 km
+
+Origin: Макасар
+Destination: Бандар-Лампунг
+Distance: 1,833 km
+
+Origin: Макасар
+Destination: Денпасар
+Distance: 975 km
+
+Origin: Макасар
+Destination: Манадо
+Distance: 1,756 km
+
+Origin: Макасар
+Destination: Палембанг
+Distance: 2,130 km
+
+Origin: Макасар
+Destination: Депок
+Distance: 1,622 km
+
+Origin: Палембанг
+Destination: Джакарта
+Distance: 529 km
+
+Origin: Палембанг
+Destination: Бандунг
+Distance: 673 km
+
+Origin: Палембанг
+Destination: Сурабая
+Distance: 1,305 km
+
+Origin: Палембанг
+Destination: Медан
+Distance: 1,365 km
+
+Origin: Палембанг
+Destination: Макасар
+Distance: 2,128 km
+
+Origin: Палембанг
+Destination: Йогякарта
+Distance: 1,084 km
+
+Origin: Палембанг
+Destination: Семаранг
+Distance: 964 km
+
+Origin: Палембанг
+Destination: Балікпапан
+Distance: 2,515 km
+
+Origin: Палембанг
+Destination: Паданг
+Distance: 754 km
+
+Origin: Палембанг
+Destination: Бандар-Лампунг
+Distance: 316 km
+
+Origin: Палембанг
+Destination: Денпасар
+Distance: 1,701 km
+
+Origin: Палембанг
+Destination: Манадо
+Distance: 3,872 km
+
+Origin: Палембанг
+Destination: Палембанг
+Distance: 1 m
+
+Origin: Палембанг
+Destination: Депок
+Distance: 538 km
+
+Origin: Йогякарта
+Destination: Джакарта
+Distance: 560 km
+
+Origin: Йогякарта
+Destination: Бандунг
+Distance: 487 km
+
+Origin: Йогякарта
+Destination: Сурабая
+Distance: 325 km
+
+Origin: Йогякарта
+Destination: Медан
+Distance: 2,442 km
+
+Origin: Йогякарта
+Destination: Макасар
+Distance: 1,148 km
+
+Origin: Йогякарта
+Destination: Палембанг
+Distance: 1,085 km
+
+Origin: Йогякарта
+Destination: Семаранг
+Distance: 130 km
+
+Origin: Йогякарта
+Destination: Балікпапан
+Distance: 1,690 km
+
+Origin: Йогякарта
+Destination: Паданг
+Distance: 1,832 km
+
+Origin: Йогякарта
+Destination: Бандар-Лампунг
+Distance: 788 km
+
+Origin: Йогякарта
+Destination: Денпасар
+Distance: 721 km
+
+Origin: Йогякарта
+Destination: Манадо
+Distance: 2,892 km
+
+Origin: Йогякарта
+Destination: Палембанг
+Distance: 1,085 km
+
+Origin: Йогякарта
+Destination: Депок
+Distance: 576 km
+
+Origin: Семаранг
+Destination: Джакарта
+Distance: 442 km
+
+Origin: Семаранг
+Destination: Бандунг
+Distance: 368 km
+
+Origin: Семаранг
+Destination: Сурабая
+Distance: 350 km
+
+Origin: Семаранг
+Destination: Медан
+Distance: 2,324 km
+
+Origin: Семаранг
+Destination: Макасар
+Distance: 1,174 km
+
+Origin: Семаранг
+Destination: Палембанг
+Distance: 966 km
+
+Origin: Семаранг
+Destination: Йогякарта
+Distance: 130 km
+
+Origin: Семаранг
+Destination: Балікпапан
+Distance: 1,558 km
+
+Origin: Семаранг
+Destination: Паданг
+Distance: 1,713 km
+
+Origin: Семаранг
+Destination: Бандар-Лампунг
+Distance: 670 km
+
+Origin: Семаранг
+Destination: Денпасар
+Distance: 746 km
+
+Origin: Семаранг
+Destination: Манадо
+Distance: 2,918 km
+
+Origin: Семаранг
+Destination: Палембанг
+Distance: 966 km
+
+Origin: Семаранг
+Destination: Депок
+Distance: 458 km
+
+Origin: Балікпапан
+Destination: Джакарта
+Distance: 1,991 km
+
+Origin: Балікпапан
+Destination: Бандунг
+Distance: 1,917 km
+
+Origin: Балікпапан
+Destination: Сурабая
+Distance: 1,366 km
+
+Origin: Балікпапан
+Destination: Медан
+Distance: 3,873 km
+
+Origin: Балікпапан
+Destination: Макасар
+Distance: 613 km
+
+Origin: Балікпапан
+Destination: Палембанг
+Distance: 2,515 km
+
+Origin: Балікпапан
+Destination: Йогякарта
+Distance: 1,690 km
+
+Origin: Балікпапан
+Destination: Семаранг
+Distance: 1,557 km
+
+Origin: Балікпапан
+Destination: Паданг
+Distance: 3,262 km
+
+Origin: Балікпапан
+Destination: Бандар-Лампунг
+Distance: 2,219 km
+
+Origin: Балікпапан
+Destination: Денпасар
+Distance: 1,787 km
+
+Origin: Балікпапан
+Destination: Манадо
+Distance: 1,291 km
+
+Origin: Балікпапан
+Destination: Палембанг
+Distance: 2,515 km
+
+Origin: Балікпапан
+Destination: Депок
+Distance: 2,007 km
+
+Origin: Паданг
+Destination: Джакарта
+Distance: 1,275 km
+
+Origin: Паданг
+Destination: Бандунг
+Distance: 1,420 km
+
+Origin: Паданг
+Destination: Сурабая
+Distance: 2,051 km
+
+Origin: Паданг
+Destination: Медан
+Distance: 771 km
+
+Origin: Паданг
+Destination: Макасар
+Distance: 2,874 km
+
+Origin: Паданг
+Destination: Палембанг
+Distance: 753 km
+
+Origin: Паданг
+Destination: Йогякарта
+Distance: 1,831 km
+
+Origin: Паданг
+Destination: Семаранг
+Distance: 1,711 km
+
+Origin: Паданг
+Destination: Балікпапан
+Distance: 3,261 km
+
+Origin: Паданг
+Destination: Бандар-Лампунг
+Distance: 1,063 km
+
+Origin: Паданг
+Destination: Денпасар
+Distance: 2,447 km
+
+Origin: Паданг
+Destination: Манадо
+Distance: 4,618 km
+
+Origin: Паданг
+Destination: Палембанг
+Distance: 753 km
+
+Origin: Паданг
+Destination: Депок
+Distance: 1,285 km
+
+Origin: Бандар-Лампунг
+Destination: Джакарта
+Distance: 234 km
+
+Origin: Бандар-Лампунг
+Destination: Бандунг
+Distance: 379 km
+
+Origin: Бандар-Лампунг
+Destination: Сурабая
+Distance: 1,010 km
+
+Origin: Бандар-Лампунг
+Destination: Медан
+Distance: 1,674 km
+
+Origin: Бандар-Лампунг
+Destination: Макасар
+Distance: 1,833 km
+
+Origin: Бандар-Лампунг
+Destination: Палембанг
+Distance: 317 km
+
+Origin: Бандар-Лампунг
+Destination: Йогякарта
+Distance: 790 km
+
+Origin: Бандар-Лампунг
+Destination: Семаранг
+Distance: 670 km
+
+Origin: Бандар-Лампунг
+Destination: Балікпапан
+Distance: 2,220 km
+
+Origin: Бандар-Лампунг
+Destination: Паданг
+Distance: 1,063 km
+
+Origin: Бандар-Лампунг
+Destination: Денпасар
+Distance: 1,406 km
+
+Origin: Бандар-Лампунг
+Destination: Манадо
+Distance: 3,577 km
+
+Origin: Бандар-Лампунг
+Destination: Палембанг
+Distance: 317 km
+
+Origin: Бандар-Лампунг
+Destination: Депок
+Distance: 243 km
+
+Origin: Денпасар
+Destination: Джакарта
+Distance: 1,185 km
+
+Origin: Денпасар
+Destination: Бандунг
+Distance: 1,111 km
+
+Origin: Денпасар
+Destination: Сурабая
+Distance: 432 km
+
+Origin: Денпасар
+Destination: Медан
+Distance: 3,067 km
+
+Origin: Денпасар
+Destination: Макасар
+Distance: 975 km
+
+Origin: Денпасар
+Destination: Палембанг
+Distance: 1,709 km
+
+Origin: Денпасар
+Destination: Йогякарта
+Distance: 729 km
+
+Origin: Денпасар
+Destination: Семаранг
+Distance: 754 km
+
+Origin: Денпасар
+Destination: Балікпапан
+Distance: 1,797 km
+
+Origin: Денпасар
+Destination: Паданг
+Distance: 2,456 km
+
+Origin: Денпасар
+Destination: Бандар-Лампунг
+Distance: 1,412 km
+
+Origin: Денпасар
+Destination: Манадо
+Distance: 2,719 km
+
+Origin: Денпасар
+Destination: Палембанг
+Distance: 1,709 km
+
+Origin: Денпасар
+Destination: Депок
+Distance: 1,201 km
+
+Origin: Манадо
+Destination: Джакарта
+Distance: 3,349 km
+
+Origin: Манадо
+Destination: Бандунг
+Distance: 3,275 km
+
+Origin: Манадо
+Destination: Сурабая
+Distance: 2,569 km
+
+Origin: Манадо
+Destination: Медан
+Distance: 5,231 km
+
+Origin: Манадо
+Destination: Макасар
+Distance: 1,755 km
+
+Origin: Манадо
+Destination: Палембанг
+Distance: 3,873 km
+
+Origin: Манадо
+Destination: Йогякарта
+Distance: 2,893 km
+
+Origin: Манадо
+Destination: Семаранг
+Distance: 2,918 km
+
+Origin: Манадо
+Destination: Балікпапан
+Distance: 1,290 km
+
+Origin: Манадо
+Destination: Паданг
+Distance: 4,620 km
+
+Origin: Манадо
+Destination: Бандар-Лампунг
+Distance: 3,577 km
+
+Origin: Манадо
+Destination: Денпасар
+Distance: 2,718 km
+
+Origin: Манадо
+Destination: Палембанг
+Distance: 3,873 km
+
+Origin: Манадо
+Destination: Депок
+Distance: 3,365 km
+
+Origin: Палембанг
+Destination: Джакарта
+Distance: 529 km
+
+Origin: Палембанг
+Destination: Бандунг
+Distance: 673 km
+
+Origin: Палембанг
+Destination: Сурабая
+Distance: 1,305 km
+
+Origin: Палембанг
+Destination: Медан
+Distance: 1,365 km
+
+Origin: Палембанг
+Destination: Макасар
+Distance: 2,128 km
+
+Origin: Палембанг
+Destination: Палембанг
+Distance: 1 m
+
+Origin: Палембанг
+Destination: Йогякарта
+Distance: 1,084 km
+
+Origin: Палембанг
+Destination: Семаранг
+Distance: 964 km
+
+Origin: Палембанг
+Destination: Балікпапан
+Distance: 2,515 km
+
+Origin: Палембанг
+Destination: Паданг
+Distance: 754 km
+
+Origin: Палембанг
+Destination: Бандар-Лампунг
+Distance: 316 km
+
+Origin: Палембанг
+Destination: Денпасар
+Distance: 1,701 km
+
+Origin: Палембанг
+Destination: Манадо
+Distance: 3,872 km
+
+Origin: Палембанг
+Destination: Депок
+Distance: 538 km
+
+Origin: Депок
+Destination: Джакарта
+Distance: 40.6 km
+
+Origin: Депок
+Destination: Бандунг
+Distance: 168 km
+
+Origin: Депок
+Destination: Сурабая
+Distance: 799 km
+
+Origin: Депок
+Destination: Медан
+Distance: 1,901 km
+
+Origin: Депок
+Destination: Макасар
+Distance: 1,622 km
+
+Origin: Депок
+Destination: Палембанг
+Distance: 544 km
+
+Origin: Депок
+Destination: Йогякарта
+Distance: 579 km
+
+Origin: Депок
+Destination: Семаранг
+Distance: 459 km
+
+Origin: Депок
+Destination: Балікпапан
+Distance: 2,009 km
+
+Origin: Депок
+Destination: Паданг
+Distance: 1,290 km
+
+Origin: Депок
+Destination: Бандар-Лампунг
+Distance: 247 km
+
+Origin: Депок
+Destination: Денпасар
+Distance: 1,195 km
+
+Origin: Депок
+Destination: Манадо
+Distance: 3,366 km
+
+Origin: Депок
+Destination: Палембанг
+Distance: 544 km
+
